@@ -1,0 +1,5 @@
+
+1：Open UnrealEditor Menu Bar "Edit->Plugins" 
+2:  Find DataTableToCSV and open it 
+3：Click DataTable -> CSV output
+4：or Click CSV -> DataTable input
